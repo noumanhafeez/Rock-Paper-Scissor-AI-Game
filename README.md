@@ -22,7 +22,7 @@ Build a computer vision model that can recognize rock, paper, and scissors gestu
 
 Build an AI agent that can play Rock-Paper-Scissors. This can be done using a variety of machine learning algorithms, such as a decision tree or a neural network.
 
-Create a user interface that allows the human player to play against the AI agent. This can be done using a variety of graphical user interface (GUI) libraries, such as PyQt or Tkinter. I used Tkinter here.
+Create a user interface that allows the human player to play against the AI agent. This can be done using a variety of graphical user interface (GUI) libraries, such as PyQt or Tkinter.
 
 ### Project Deliverables
 
